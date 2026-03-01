@@ -6,7 +6,7 @@ authors = [
     { name = "Pauxis", email = "pauxiscezar@gmail.com" }
 ]
 dependencies = [
-    "gafian"
+    "grafian"
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
